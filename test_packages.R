@@ -1,2 +1,2 @@
 library(DBI)
-library(tidyverse) # Hello
+library(tidyverse) # Hello world
